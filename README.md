@@ -39,33 +39,4 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uttamaprh&show_icons=true&locale=en&layout=compact" alt="uttamaprh" /></p>
