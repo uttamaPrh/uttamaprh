@@ -36,7 +36,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=uttamaPrh&theme=dark&hide_border=false)<br/></br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uttamaPrh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
 
-<p align="center> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uttamaprh" alt="uttamaprh" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=uttamaprh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ ENJOY
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
