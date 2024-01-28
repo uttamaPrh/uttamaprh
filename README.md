@@ -39,4 +39,10 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 <br clear="both">
 
+###
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
