@@ -1,3 +1,8 @@
+<div align="center">
+<img height="100%" width="100%" src="https://raw.githubusercontent.com/uttamaprh/uttamaprh/output/header.png" alt="MYSELF" />
+</div>
+
+###
 <h1 align="center">Hi 👋, I'm Uttam Pradhan.</h1>
 <h3 align="center">A passionate content enthusiast with a strong SEO focus, specializing in frontend development to create visually stunning websites. Proficient in video editing, I leverage multimedia to enhance storytelling and captivate audiences.</h3>
 
