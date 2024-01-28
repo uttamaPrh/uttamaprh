@@ -3,7 +3,7 @@
 </div>
 
 ###
-<h1 align="center">Hi 👋, I'm Uttam Pradhan.</h1>
+<h1 align="center">👋</h1>
 <h3 align="center">A passionate content enthusiast with a strong SEO focus, specializing in frontend development to create visually stunning websites. Proficient in video editing, I leverage multimedia to enhance storytelling and captivate audiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uttamaprh&label=Profile%20views&color=0e75b6&style=flat" alt="uttamaprh" /> </p>
