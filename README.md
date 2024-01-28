@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **On-page and off-page SEO.**
 
-- 📫 How to reach me **uttampra1@gmail.com, +977-9702187345**
+- 📫 Reach me with **uttampra1@gmail.com**
 
 - 📄 Know about my experiences [uttampradhan.com.np](uttampradhan.com.np)
 
