@@ -1,5 +1,5 @@
 <div align="center">
-<img height="100%" width="100%" src="https://raw.githubusercontent.com/uttamaprh/uttamaprh/output/header.png" alt="MYSELF" />
+<img height="100%" width="100%" src="https://github.com/uttamaPrh/uttamaprh/blob/main/header.png" alt="MYSELF" />
 </div>
 
 ###
