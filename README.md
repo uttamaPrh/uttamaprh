@@ -13,7 +13,7 @@
 
 - 📫 Reach me with **uttampra1@gmail.com**
 
-- 📄 Know about my experiences [uttampradhan.com.np]([https://www.uttampradhan.com.np/]))
+- 📄 Know about my experiences [https://www.uttampradhan.com.np/]
 
 - ⚡ Fun fact **I think I'm Genius😁**
 
