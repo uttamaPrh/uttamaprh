@@ -47,7 +47,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uttamaprh&theme=2077" height="180em" />
 </div>
 </br>
-  
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uttamaprh&theme=dark&hide_border=false" height="180em" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=uttamaprh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
